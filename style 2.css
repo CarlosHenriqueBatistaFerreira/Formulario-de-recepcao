@@ -19,6 +19,7 @@ h1 {
 
 body{
   background-color: #1a69dd;
+  
 }
 
 .logo{
@@ -27,3 +28,10 @@ body{
   margin-left: 35%;
 }
 
+h3{
+  color: white;
+}
+
+label{
+  color: white;
+}
